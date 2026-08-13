@@ -39,18 +39,17 @@ For the past **8+ years**, my primary focus has been designing and building web 
 
 ## 🚀 Selected Work
 
-### [AzAdmin](https://github.com/azadone/azadmin)
-Framework-independent administration UI focused on semantic HTML, mobile-first architecture, RTL, dark mode, and maintainable CSS.
+| Project                                                                                       | Focus                                                                                |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **[AzAdmin](https://github.com/azadone/azadmin)**                                             | Zero-JS admin UI · Semantic HTML · Mobile-first CSS · RTL · Design System            |
+| **[Laravel Architecture Showcase](https://github.com/azadone/laravel-architecture-showcase)** | Production Laravel systems · Domain Modeling · E-commerce · CRM · Business Workflows |
+| **[Browser Extensions](https://github.com/azadone/browser-extensions)**                       | Chrome/WebExtensions · Productivity Tools · Browser APIs                             |
+| **[Windows Tools](https://github.com/azadone/windows-tools)**                                 | C# · .NET · Desktop Utilities                                                        |
+| **[Trading Tools](https://github.com/azadone/trading-tools)**                                 | MQL4 · MQL5 · Pine Script · MetaTrader · TradingView                                 |
+| **[WordPress Tools](https://github.com/azadone/plugin-Wp)**                                   | WordPress · WooCommerce · Data Cleanup · Operational Utilities                       |
 
-### [WordPress Tools](https://github.com/azadone/plugin-Wp)
-Focused WordPress/WooCommerce utilities built for real operational and data-management requirements.
+> Selected production systems are private. Public architecture documentation is provided where proprietary source code cannot be shared.
 
-### Tagoco Platform `Private`
-Modular Laravel business platform covering catalog, products, attributes, content, media, and administration.
-
-### More projects coming
-
-`Browser Extensions` · `Windows Tools` · `MQL4/MQL5 Trading Tools`
 
 Legacy `iOS` and `Unity` projects will also be published gradually.
 
