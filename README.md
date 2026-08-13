@@ -15,8 +15,8 @@ For the past **8+ years**, my primary focus has been designing and building web 
 |---|---|
 | **Backend** | PHP · Laravel · Python · Rust |
 | **Database** | MySQL · Redis |
-| **Infrastructure** | Docker · Linux · Nginx · Apache · LiteSpeed |
-| **Architecture** | REST APIs · RBAC · Queues · Caching · Relational Data Modeling |
+| **Infrastructure** | MySQL · Redis · Docker · Linux · Nginx · Apache · LiteSpeed |
+| **Architecture** | REST APIs · RBAC · Domain Modeling · Relational Data Design · Queues · Caching · Modular Architecture |
 
 **Also familiar with:** Go · Node.js · .NET · React · PostgreSQL · MongoDB
 
